@@ -63,4 +63,4 @@
 3. 각 사이트마다 형태가 다를 텐데 그 분류를 비슷하게 하여 가능한 색인이 잘 되도록 수정.
 
 
-# R코드[이동](https://github.com/chanp5660/chanp5660/blob/master/Second/Saramin.R)
+# R코드[이동](https://github.com/chanp5660/R_chanp5660/blob/master/Project/Crawling/Saramin/Saramin.R)
