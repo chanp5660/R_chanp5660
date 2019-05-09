@@ -31,7 +31,7 @@
 - 'PantomJs' 프로그램을 사용해서 html 파일로 저장.
 ![JShtml](https://user-images.githubusercontent.com/46266247/56230134-9d3f5a80-60b6-11e9-9398-fa49e08fa2f1.png)
 
-  - 총 개수, 총 페이지수를 구해서 모든 공고의 상세보기 URL 번호 저장. [num_total.txt파일](https://github.com/chanp5660/chanp5660/blob/master/Result/num_total.txt)
+  - 총 개수, 총 페이지수를 구해서 모든 공고의 상세보기 URL 번호 저장. [num_total.txt파일](https://github.com/chanp5660/R_chanp5660/blob/master/Project/Crawling/Saramin/result/num_total.txt)
   
     - ```http://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=```**36015093**```&recommend_ids=eJxVzrsNgFAMQ9Fp6F%2FifGsGYf8tgM4uj65iBXUyzP0p86tvfAQmmFstjGRmghlrTNdqWq1l6vuE6LspjGHOSG3IbZ39%2BQKwQS%2BW&view_type=public-recruit&gz=1&t_ref=public-recruit#seq=0```
 
