@@ -40,7 +40,7 @@
 - Html 파일을 'rvest' 패키지를 사용해서 읽는다.
   - 필요한 정보들을 rvest와 gsub, grep, gregexpr, strsplit등 텍스트를 다루는 함수, match, Sys.sleep, write.csv등 그 외의 필요한 함수들을 사용하여 분류하여 저장.
 
-- 데이터를 500개씩 나누어 저장.[csv파일](https://github.com/chanp5660/chanp5660/tree/master/Result/saramin_csv)
+- 데이터를 500개씩 나누어 저장.[csv파일](https://github.com/chanp5660/R_chanp5660/tree/master/Project/Crawling/Saramin/result/Data_csv)
 
 ### 자동화
 
