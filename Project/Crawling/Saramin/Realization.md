@@ -35,7 +35,7 @@
   
     - ```http://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=```**36015093**```&recommend_ids=eJxVzrsNgFAMQ9Fp6F%2FifGsGYf8tgM4uj65iBXUyzP0p86tvfAQmmFstjGRmghlrTNdqWq1l6vuE6LspjGHOSG3IbZ39%2BQKwQS%2BW&view_type=public-recruit&gz=1&t_ref=public-recruit#seq=0```
 
-  - 해당 URL을 이용해서 각 html 파일로 저장.[Html파일](https://github.com/chanp5660/chanp5660/tree/master/Result/saramin)
+  - 해당 URL을 이용해서 각 html 파일로 저장.[Html파일](https://github.com/chanp5660/R_chanp5660/tree/master/Project/Crawling/Saramin/result/Html_files)
 
 - Html 파일을 'rvest' 패키지를 사용해서 읽는다.
   - 필요한 정보들을 rvest와 gsub, grep, gregexpr, strsplit등 텍스트를 다루는 함수, match, Sys.sleep, write.csv등 그 외의 필요한 함수들을 사용하여 분류하여 저장.
